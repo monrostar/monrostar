@@ -36,11 +36,8 @@ Design patterns: OOP use SOLID, Functional programming. Monolithic or microservi
 
 <details>
   <summary>:zap: Statistics:</summary>
-  <br />
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanleySB&langs_count=8&layout=compact" />
-  <br />
-  <br />
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=StanleySB&show_icons=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monrostar&langs_count=8&layout=compact" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=monrostar&show_icons=true" />
 </details>
 
 <!--
