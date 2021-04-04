@@ -34,11 +34,10 @@ Design patterns: OOP use SOLID, Functional programming. Monolithic or microservi
 
 <br />
 
-<details>
-  <summary>:zap: Statistics:</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monrostar&langs_count=8&layout=compact" />
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=monrostar&show_icons=true" />
-</details>
+<summary>:zap: Statistics:</summary>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=monrostar&show_icons=true&theme=radical)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=monrostar&langs_count=8&layout=compact)
 
 <!--
 **monrostar/monrostar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
