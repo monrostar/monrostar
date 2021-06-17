@@ -29,7 +29,6 @@ Design patterns: OOP use SOLID, Functional programming. Monolithic or microservi
 
 - 📫 How to reach me: ...
   * telegram: @monrostar
-  * skype: nitsenko94
   * email: ceo@goodbit.dev 
 
 <br />
