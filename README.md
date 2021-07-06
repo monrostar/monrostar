@@ -31,14 +31,6 @@ Design patterns: OOP use SOLID, Functional programming. Monolithic or microservi
   * telegram: @monrostar
   * email: ceo@goodbit.dev 
 
-<br />
-
-<summary>:zap: Statistics:</summary>
-<br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=monrostar&count_private=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monrostar&langs_count=8&layout=compact&count_private=true">
-
-
 <!--
 **monrostar/monrostar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
