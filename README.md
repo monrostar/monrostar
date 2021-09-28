@@ -29,7 +29,7 @@ Design patterns: OOP use SOLID, Functional programming. Monolithic or microservi
 
 - 📫 How to reach me: ...
   * telegram: @monrostar
-  * email: ceo@goodbit.dev 
+  * email: eugene.nitsenko@goodbit.dev 
 
 <!--
 **monrostar/monrostar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
