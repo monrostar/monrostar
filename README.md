@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My goal is to deliver your project in the best quality.
-
 My specialties are:
 ✔️ Modern Website Development: from scratch, revamp, update, customize, and other forms.
 ✔️ Application architecture: Microservice or Monolithic.
