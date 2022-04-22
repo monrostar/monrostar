@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.  Proficient in an assortment of technologies, including Go, Python, PHP, Node and DevOps for Cloud services (AWS, GCP).
+I am Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.  Proficient in an assortment of technologies, including Go, Python, PHP, Node, Elixir and DevOps for Cloud services (AWS, GCP).
 
 I know a lot of frameworks and am ready to make the most difficult decisions in choosing technologies and directions in development for companies or teams.
 
