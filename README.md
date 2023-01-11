@@ -25,8 +25,6 @@ API: REST, GraphQL, RPC.
 
 Feel free to contact me via:
 - telegram: @monrostar
-- skype: nitsenko94
-- email: nitsenko94@gmail.com 
 
 <!--
 **monrostar/monrostar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
